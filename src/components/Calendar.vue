@@ -110,31 +110,31 @@
         {
           title: 'Meeting',
           details: 'Spending time on how we do not have enough time',
-          date: '2019-01-07',
+          date: '2019-06-07',
           open: false
         },
         {
           title: '30th Birthday',
           details: 'Celebrate responsibly',
-          date: '2019-01-03',
+          date: '2019-06-03',
           open: false
         },
         {
           title: 'New Year',
           details: 'Eat chocolate until you pass out',
-          date: '2019-01-01',
+          date: '2019-06-01',
           open: false
         },
         {
           title: 'Conference',
           details: 'Mute myself the whole time and wonder why I am on this call',
-          date: '2019-01-21',
+          date: '2019-06-21',
           open: false
         },
         {
           title: 'Hackathon',
           details: 'Code like there is no tommorrow',
-          date: '2019-02-01',
+          date: '2019-06-01',
           open: false
         }
       ]
