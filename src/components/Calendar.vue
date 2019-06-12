@@ -87,7 +87,7 @@
 <script>
   export default {
     data: () => ({
-      today: '2019-01-08',
+      //today: '2019-01-08',
       events: [
         {
           title: 'Vacation',
@@ -147,7 +147,7 @@
         return map
       },
       today(){
-          
+          return new Date() 
       }
     },
     methods: {

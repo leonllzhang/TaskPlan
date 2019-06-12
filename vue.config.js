@@ -3,7 +3,7 @@ module.exports = {
     moment: {
       locales: [
         'en',
-        'cn'
+        'zh'
       ]
     }
   }
