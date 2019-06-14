@@ -85,7 +85,7 @@
 </style>
 
 <script>
-//import moment from 'moment';
+
   export default {
     data: () => ({
       //today: '2019-01-08',
@@ -148,7 +148,10 @@
         return map
       },
       today(){
-          return moment(); // return new Date() 
+        var now = this.$moment().format('YYYY-MM-DD');
+        console.log(now);
+        //   return moment().format();    
+           return now;//new Date().toString("yyyy-mm-dd") 
       }
     },
     methods: {

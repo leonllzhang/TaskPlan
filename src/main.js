@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import './plugins/axios'
 import './plugins/vuetify'
+import './plugins/moment'
 import App from './App.vue'
 
 
